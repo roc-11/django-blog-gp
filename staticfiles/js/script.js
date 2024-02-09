@@ -1,0 +1,1 @@
+console.log("this is working in the static js file")
